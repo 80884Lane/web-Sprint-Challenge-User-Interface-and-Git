@@ -251,7 +251,7 @@ footer nav a {
 }
 
 
-}
+
 .links{
     
     width:100%;
@@ -259,14 +259,18 @@ footer nav a {
     justify-content:space-between;
     align-items:center;
     text-decoration:none;
-    border:2px dotted orange;
+    
 }
 .links a{
     text-decoration:none;
     width:100%;
     color:black;
+    margin-right:40%;
+    padding-top:11%;
     
 }
+
+
 .new{   
     display:flex;
 }
