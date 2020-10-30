@@ -271,7 +271,8 @@ footer nav a {
 }
 
 
-.new{   
+.new{ 
+    width:100%;  
     display:flex;
 }
 .fourpart{
@@ -284,15 +285,19 @@ footer nav a {
     
 }
 .strategy{
+    margin-right:8%;
     width:40%;
 }
 .how{
+    margin-right:8%;
     width:40%;
 }
 .places{
+    margin-right:8%;
     width:40%;
 }
 .collab{
+    margin-right:8%;
     width:40%;
 }
 .bottom{
@@ -300,11 +305,13 @@ footer nav a {
     padding-top:4%;
 }
 .learnMore{
-    width:15%;
+    width:25%;
     color:black;
     border: 2px solid black;
-    border-radius:3px;
-    margin-top:5%;
+    border-radius:10px;
+    text-decoration:none;
+    font-size:1rem;
+    padding:1% 3%;
 }
 
 
