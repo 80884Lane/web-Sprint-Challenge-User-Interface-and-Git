@@ -249,21 +249,25 @@ footer nav a {
     
     margin-left:20%;
 }
+
+
+}
 .links{
-    margin-right:20%;
+    
     width:100%;
     display:flex;
     justify-content:space-between;
     align-items:center;
-    
     text-decoration:none;
+    border:2px dotted orange;
 }
 .links a{
     text-decoration:none;
     width:100%;
     color:black;
+    
 }
-.new{
+.new{   
     display:flex;
 }
 .fourpart{
@@ -296,4 +300,10 @@ footer nav a {
     color:black;
     border: 2px solid black;
     border-radius:3px;
+    margin-top:5%;
 }
+
+
+
+   
+
